@@ -1,0 +1,58 @@
+[
+   {
+      "productId": 0,
+      "productName": "Lavanya Diamond Mangalsutra",
+      "productPrice": "₹40,888",
+      "productImg": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/S/JS00126-YGP600_11_listfront.jpg",
+      "productDesc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis adipisci, rem quos, quo doloremque maxime nemo nihil enim autem dicta incidunt deserunt tempora veritatis voluptatibus asperiores saepe. Dignissimos, aut repellat sint, veniam facere reprehenderit sit ab laboriosam ipsa nulla molestiae voluptates! Aliquid nostrum commodi aperiam possimus non minima facere at."
+   },
+   {
+      "productId": 1,
+      "productName": "Shiny Daisy Diamond Stud Earrings",
+      "productPrice": "₹10,324",
+      "productImg": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE06189-1RP900_11_listfront.jpg",
+      "productDesc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis adipisci, rem quos, quo doloremque maxime nemo nihil enim autem dicta incidunt deserunt tempora veritatis voluptatibus asperiores saepe. Dignissimos, aut repellat sint, veniam facere reprehenderit sit ab laboriosam ipsa nulla molestiae voluptates! Aliquid nostrum commodi aperiam possimus non minima facere at."
+   },
+   {
+      "productId": 2,
+      "productName": "Lindsey Diamond Hoop Earrings",
+      "productPrice": "₹80,410",
+      "productImg": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE07070-1YP900_11_listfront.jpg",
+      "productDesc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis adipisci, rem quos, quo doloremque maxime nemo nihil enim autem dicta incidunt deserunt tempora veritatis voluptatibus asperiores saepe. Dignissimos, aut repellat sint, veniam facere reprehenderit sit ab laboriosam ipsa nulla molestiae voluptates! Aliquid nostrum commodi aperiam possimus non minima facere at."
+   },
+   {
+      "productId": 3,
+      "productName": "S' Cluster Diamond Hoop Earrings",
+      "productPrice": "₹24,551",
+      "productImg": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/E/JE02852-YGP900_11_listfront.jpg",
+      "productDesc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis adipisci, rem quos, quo doloremque maxime nemo nihil enim autem dicta incidunt deserunt tempora veritatis voluptatibus asperiores saepe. Dignissimos, aut repellat sint, veniam facere reprehenderit sit ab laboriosam ipsa nulla molestiae voluptates! Aliquid nostrum commodi aperiam possimus non minima facere at."
+   },
+   {
+      "productId": 4,
+      "productName": "Intertwined Glim Diamond Ring",
+      "productPrice": "₹18,698",
+      "productImg": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/R/JR03769-YGP900_11_listfront.jpg",
+      "productDesc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis adipisci, rem quos, quo doloremque maxime nemo nihil enim autem dicta incidunt deserunt tempora veritatis voluptatibus asperiores saepe. Dignissimos, aut repellat sint, veniam facere reprehenderit sit ab laboriosam ipsa nulla molestiae voluptates! Aliquid nostrum commodi aperiam possimus non minima facere at."
+   },
+   {
+      "productId": 5,
+      "productName": "Amoura Infinity Diamond Necklace",
+      "productPrice": "₹19,327",
+      "productImg": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/L/JL04317-1RP900_11_listfront.jpg",
+      "productDesc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis adipisci, rem quos, quo doloremque maxime nemo nihil enim autem dicta incidunt deserunt tempora veritatis voluptatibus asperiores saepe. Dignissimos, aut repellat sint, veniam facere reprehenderit sit ab laboriosam ipsa nulla molestiae voluptates! Aliquid nostrum commodi aperiam possimus non minima facere at."
+   },
+   {
+      "productId": 6,
+      "productName": "Exclusive Evil Eye Gold Charm",
+      "productPrice": "₹5,282",
+      "productImg": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//U/G/UG00021-1Y0000_11_listfront.jpg",
+      "productDesc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis adipisci, rem quos, quo doloremque maxime nemo nihil enim autem dicta incidunt deserunt tempora veritatis voluptatibus asperiores saepe. Dignissimos, aut repellat sint, veniam facere reprehenderit sit ab laboriosam ipsa nulla molestiae voluptates! Aliquid nostrum commodi aperiam possimus non minima facere at."
+   },
+   {
+      "productId": 7,
+      "productName": "Estrena Dazzling Diamond Necklace",
+      "productPrice": "₹21,588",
+      "productImg": "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95//J/L/JL04315-1YP900_11_listfront.jpg",
+      "productDesc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis adipisci, rem quos, quo doloremque maxime nemo nihil enim autem dicta incidunt deserunt tempora veritatis voluptatibus asperiores saepe. Dignissimos, aut repellat sint, veniam facere reprehenderit sit ab laboriosam ipsa nulla molestiae voluptates! Aliquid nostrum commodi aperiam possimus non minima facere at."
+   }
+]
